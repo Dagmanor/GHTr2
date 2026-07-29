@@ -1,5 +1,8 @@
 # OctoAcme Project Management Docs
 
+Overview
+A concise overview: OctoAcme runs cross-functional projects through a simple, iterative lifecycle focused on customer value—Initiation, Planning, Execution, Release, and Retrospective. The process emphasizes clear ownership (PM + PdM), regular cadence for alignment and risk management, and a small set of core artifacts (Project One‑pager, prioritized backlog, Definition of Done, and Risk Register) to keep work discoverable and decision-ready.
+
 This folder contains the project management and process documents that guide how OctoAcme plans, executes, and improves work. Below is a concise summary of our core workflows, roles, communication cadence, and quality practices, followed by direct links to each document in this directory.
 
 ## Summary
